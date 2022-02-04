@@ -25,9 +25,6 @@ coverage
 # nyc test coverage
 .nyc_output
 
-# GitIgnore
-.gitignore
-
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -36,7 +33,6 @@ bower_components
 
 # node-waf configuration
 .lock-wscript
-
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
